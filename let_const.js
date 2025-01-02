@@ -6,7 +6,7 @@ Variables declared with let cannot be Redeclared in the same scope
 */
 var x = 10
 {
-    let x=20
+    let x=20 
     console.log(x)
 }
 
